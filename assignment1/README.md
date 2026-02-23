@@ -9,7 +9,9 @@ This project visualizes Hong Kong temperature data using a matrix layout:
 - Hover format:  
   Date YYYY-MM-DD, max: xxx℃, min: xxx℃  
 - Unified color legend  
-- MAX / MIN toggle button  
+- MAX / MIN toggle button
+
+The output figure is in the 'output' folder.
 
 ---
 
