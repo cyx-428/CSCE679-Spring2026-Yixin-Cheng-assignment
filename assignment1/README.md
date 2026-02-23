@@ -19,13 +19,11 @@ This project visualizes Hong Kong temperature data using a matrix layout:
 pip install -r requirements.txt
 python main.py
 ```
----
 
 ## AI Log
 Conversation link:
 https://chatgpt.com/share/699ba5e8-fe80-800b-bac2-d4caf093d23c
 
----
 
 ## AI Reflection
 AI was used to:
